@@ -157,3 +157,10 @@
       email: fernando@phprs.com.br  
     - name: Grupo PHPRS
       email: contato@phprs.com.br  
+
+- name: Indy PHP
+  location: Indianapolis, IN, USA
+  meetup: https://www.meetup.com/indyphp/
+  contacts:
+    - name: Ben Harold
+      bemail: benharold@mac.com
